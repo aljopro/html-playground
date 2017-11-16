@@ -1,0 +1,16 @@
+.editors {
+	display: flex;
+	flex-direction: row;
+}
+.editor-container {
+	flex-grow: 1;
+}
+.editor {
+	width: 100%;
+	height: 33vh;
+}
+
+#code_preview {
+	width: 100%;
+	height: 50vh;
+}

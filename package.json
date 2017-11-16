@@ -1,0 +1,14 @@
+{
+	"name": "code-playground",
+	"version": "1.0.0",
+	"description": "Playground for a web developer",
+	"main": "src/index.html",
+	"author": "John Chappell",
+	"license": "MIT",
+	"devDependencies": {
+		"http-server": "^0.10.0"
+	},
+    "scripts": {
+        "serve" : "http-server"
+    }
+}
